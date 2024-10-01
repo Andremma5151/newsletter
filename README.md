@@ -8,4 +8,4 @@ This newsletter aims to highlight:
 
 Current issues:
 
-- [October 2024](https://muhegcodingclub.github.io/newsletter/oct24)
+- [October 2024](https://muhegcodingclub.github.io/newsletter/docs/Placeholder%20October%20Newsletter.pdf)
